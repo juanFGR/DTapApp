@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+    .body{
+		width:90%;
+		margin-left:auto;
+		margin-right:auto;
+        margin-top:40px;
+	}
+    .footer{
+        height:20px;
+        bottom:0;
+		min-height:20px;
+		position:absolute;
+		font-size: 15px;
+		width:100%;
+		vertical-align:central;
+     }
+
+     .colorPrimary{
+      background-color: #B40404;
+      color:white;
+      }
+	  
+	  .space{
+		  margin-top:10px;
+		  }
+
+    html{
+    padding-top:5px;
+    }
+
+#firstMenu{
+	text-align:center;
+	padding:5px;
+	}
+  .secondMenu{
+	text-align:center;
+	padding:5px;
+	}
+
+	.listLocal{
+	float:left;
+	font-size:20px;
+	width:160px;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+	}
+
+
+	.listTapas{
+	float:left;
+	font-size:20px;
+	width:160px;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+	}
