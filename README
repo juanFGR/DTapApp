@@ -1,0 +1,3 @@
+El repositorio incluye la estructura general que crea phonegap cuando creamos un proyecto.
+
+Android-> El proyecto android que se importa con elipse o android studio se encuenda dentro de la carpeta platforms 
