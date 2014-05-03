@@ -15,7 +15,8 @@
 
 <script type="text/javascript" src="../js/jquery-1.11.0.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-
+<script src="../js/parse-1.2.18.js"></script>
+<script src="../js/dtapapp-parse.js"></script>
 <script>
 
     $(document).ready(function(){
@@ -51,17 +52,17 @@ google.maps.event.addDomListener(window, 'load', initialize);
   </div>
 
 
-    <div class="secondMenu">
-        <div class="colorPrimary listLocal" >
-            LA LAGUNA
-        </div>
-        <a href="../pages/mapa_g.html">
-        <img src="../img/secondMenuB.JPG" width="50" height="50">
-            </a>
-        <a href="../pages/locales.html">
-            <img src="../img/secondMenuC.JPG" width="50" height="50">
-        </a>
+
+    <div id = "secondMenu" class="secondMenu">
+
     </div>
+    <script type="text/javascript">
+		$( document ).ready(function() {
+		    InitializeParse();
+			printRoutes('secondMenu');
+		});
+	</script>
+
 
 <div id="map"></div>
 </div>

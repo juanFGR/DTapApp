@@ -57,3 +57,23 @@
 	font-weight:bold;
 	vertical-align:middle;
 	}
+
+
+
+
+    .Map{
+    			height:50px;
+            	width:50px;
+    	    background-color:#A5DF00;
+    	    color:white;
+    	    text-color:white;
+           background-image:url('../img/icons/ruta.png');
+    }
+        .Local{
+        			height:50px;
+                	width:50px;
+        	    background-color:#A5DF00;
+        	    color:white;
+        	    text-color:white;
+               background-image:url('../img/icons/icoLocal.png');
+        }
