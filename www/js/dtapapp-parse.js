@@ -21,7 +21,7 @@
 						rootElement.append('<div class="secondMenu">'+
        '<div  class="colorPrimary listLocal" >'+object.get(printProperty)+'</div>'+
         '<a class="iconImage" href="../pages/mapa_g.html"><img src="../img/secondMenuB.JPG" width="50" height="50"></a>'+
-        '<a class="iconImage" onclick="setBar('+"'barID'"+','+"'"+object.id+"'"+')" href="../pages/tapas.html"><img src="../img/secondMenuC.JPG" width="50" height="50"></a>'+
+        '<a class="iconImage" onclick="setBar('+"'barID'"+','+"'"+object.id+"'"+')" href=""><img src="../img/secondMenuCG.png" width="50" height="50"></a>'+
         '</div>');
 
         }else if(onClickFunction ==='printRestaurants'){
