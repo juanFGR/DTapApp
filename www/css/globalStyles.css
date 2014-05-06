@@ -3,9 +3,12 @@
 
     .body{
 		width:90%;
+		height:100%;
+		vertical-align:central;
 		margin-left:auto;
 		margin-right:auto;
         margin-top:40px;
+		text-align:center;
 	}
     .footer{
         height:20px;
@@ -33,12 +36,13 @@
 #firstMenu{
 	text-align:center;
 	padding:5px;
+	margin-bottom:15px;
 	}
   .secondMenu{
 	text-align:center;
 	padding:5px;
 	margin-right:auto;
-	margin-left:auto;
+	margin-left:10%;
 	}
 
 	.listRutas{
