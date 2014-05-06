@@ -14,7 +14,7 @@
 </head>
 <body>
 <script type="text/javascript" src="../js/functions.js"></script>
-<script type="text/javascript" src="../phonegap.js"></script>
+<!--script type="text/javascript" src="../phonegap.js"></script-->
 <script src="../js/parse-1.2.18.js"></script>
 <script src="../js/dtapapp-parse.js"></script>
 
@@ -26,8 +26,7 @@
 <script type="text/javascript">
 		$( document ).ready(function() {
 		    InitializeParse();
-		    alert(localStorage.getItem("myValue"));
-			printRestaurants("restaurants",localStorage.getItem("myValue"));
+			printRestaurants("restaurants",localStorage.getItem("rutaID"));
 		});
 	</script>
 
@@ -39,16 +38,10 @@
     </div>
 
 
-    <h1>DTapApp - Parse (Demo)</h1>
-
-
     <h3>Bares</h3>
     <div id="restaurants">
     </div>
 
-    <h3>Tapas</h3>
-    <div id="tapas">
-    </div>
 </div>
 
 

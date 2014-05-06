@@ -30,39 +30,28 @@
 </head>
 <body>
 
-<script type="text/javascript" src="../phonegap.js"></script>
+<script type="text/javascript" src="../js/jquery-1.11.0.min.js"></script>
+<!--script type="text/javascript" src="../phonegap.js"></script-->
+<script src="../js/parse-1.2.18.js"></script>
+<script src="../js/dtapapp-parse.js"></script>
+
+
 <div id="header">
     <a href="../index.html">
         <img src="../img/logo.JPG" width="135" height="31" alt="logo">
     </a>
 </div>
 
+<script type="text/javascript">
+		$( document ).ready(function() {
+		    InitializeParse();
+			printTapas("secondMenu",localStorage.getItem("barID"));
+		});
+	</script>
 
-<div class="secondMenu">
-    <div>
-    <div class="colorPrimary listTapas" >
-       <div style="float:left;"><img src="../img/secondMenuB.JPG" width="50" height="50"></div>
-        <div>TAPA 1</div>
-    </div>
-    <a href="../pages/mapa_u.html">
-        <img src="../img/secondMenuB.JPG" width="50" height="50">
-    </a>
-    <a href="../pages/tapas.html">
-        <img src="../img/secondMenuC.JPG" width="50" height="50">
-    </a>
-</div>
-    <div>
-    <div class="colorPrimary listTapas" >
-        <div style="float:left;"><img src="../img/secondMenuB.JPG" width="50" height="50"></div>
-        <div>TAPA 2</div>
-    </div>
-    <a href="../pages/mapa_u.html">
-        <img src="../img/secondMenuB.JPG" width="50" height="50">
-    </a>
-    <a href="../pages/tapas.html">
-        <img src="../img/secondMenuC.JPG" width="50" height="50">
-    </a>
-    </div>
+<div id="secondMenu" onclick="setBar('+"'barID'"+','+object.id+')">
+
+
 </div>
 
 

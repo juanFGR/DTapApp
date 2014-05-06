@@ -74,44 +74,7 @@
     <favorites_list name="weekendApp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="locales.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="10" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.44402984" vertical-offset="663" max-vertical-offset="1122">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapa_g.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_g.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="12" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-0.0" vertical-offset="493" max-vertical-offset="1020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapa_u.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rutas.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="13" selection-start="1789" selection-end="1789" vertical-scroll-proportion="-5.8846154" vertical-offset="918" max-vertical-offset="1411">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -129,20 +92,20 @@
         <option value="$PROJECT_DIR$/platforms/android/assets/www/rutas" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/locales.html" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/rutas.html" />
-        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/globalStyles.css" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
-        <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/config.xml" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_g.html" />
-        <option value="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
-        <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html" />
+        <option value="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/globalStyles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
@@ -173,6 +136,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -273,28 +238,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weekendApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -321,10 +264,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weekendApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,6 +346,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -408,19 +384,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -511,6 +474,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4edda1b3-45ce-427b-abe6-b62694a5e5e3" name="Default" comment="" />
@@ -520,7 +500,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -535,13 +515,13 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45499182" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5433715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35871157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35871157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -568,6 +548,97 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="24" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="23" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_g.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="23" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_g.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="62" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0" vertical-offset="619" max-vertical-offset="1343">
@@ -683,16 +754,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="18" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.6289855" vertical-offset="497" max-vertical-offset="884">
-          <folding>
-            <element signature="e#1513#1531#0" expanded="false" />
-            <element signature="e#1634#1652#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.17708333" vertical-offset="0" max-vertical-offset="384" />
@@ -723,11 +784,6 @@
         <state line="93" column="25" selection-start="3084" selection-end="3084" vertical-scroll-proportion="0.8064516" vertical-offset="1306" max-vertical-offset="1853" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/globalStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="24" selection-start="904" selection-end="904" vertical-scroll-proportion="0.3361582" vertical-offset="1020" max-vertical-offset="1428" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/secondMenuB.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -736,16 +792,6 @@
     <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/secondMenuC.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="24" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.4620253" vertical-offset="534" max-vertical-offset="1360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="67" selection-start="6637" selection-end="6689" vertical-scroll-proportion="0.59356725" vertical-offset="1327" max-vertical-offset="1785" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/secondMenuA.JPG">
@@ -758,16 +804,30 @@
         <state line="27" column="28" selection-start="1353" selection-end="1353" vertical-scroll-proportion="-1.0981013" vertical-offset="806" max-vertical-offset="1122" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html">
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1020">
+        <state line="38" column="23" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/config.xml">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/mapa_u.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="37" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.6023392" vertical-offset="695" max-vertical-offset="1122">
+        <state line="12" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/tapas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
@@ -779,16 +839,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="13" selection-start="1789" selection-end="1789" vertical-scroll-proportion="-5.8846154" vertical-offset="918" max-vertical-offset="1411">
+        <state line="85" column="36" selection-start="6358" selection-end="6358" vertical-scroll-proportion="0.0" vertical-offset="1392" max-vertical-offset="1785">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/locales.html">
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="10" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.44402984" vertical-offset="663" max-vertical-offset="1122">
+        <state line="65" column="0" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.71666664" vertical-offset="933" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/pages/rutas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="475" selection-end="475" vertical-scroll-proportion="0.39719626" vertical-offset="51" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/globalStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="18" selection-start="775" selection-end="775" vertical-scroll-proportion="-2.4298246" vertical-offset="1489" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>

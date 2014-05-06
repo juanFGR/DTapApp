@@ -37,17 +37,34 @@
   .secondMenu{
 	text-align:center;
 	padding:5px;
+	margin-right:auto;
+	margin-left:auto;
 	}
 
-	.listLocal{
-	float:left;
+	.listRutas{
+	margin-right:auto;
+	margin-left:auto;
 	font-size:20px;
-	width:160px;
+	width:80%;
 	height:50px;
 	font-weight:bold;
 	vertical-align:middle;
 	}
 
+	.listLocal{
+	float:left;
+	margin-right:auto;
+	margin-left:auto;
+	font-size:20px;
+	width:60%;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+
+	}
+	.iconImage{
+	padding-left:5px;
+    }
 
 	.listTapas{
 	float:left;

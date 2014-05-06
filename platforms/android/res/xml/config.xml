@@ -56,5 +56,10 @@
     <access origin="https://maps.googleapis.com" />
     <access origin="https://maps.gstatic.com" />
     <access origin="https://api.parse.com"/>
-
+    <access origin="https://mts0.googleapis.com/*"/>
+    <access origin="https://mts1.googleapis.com/*"/>
+    <access origin="https://csi.gstatic.com/*"/>
+    <access origin="https://fonts.googleapis.com/*"/>
+    <access origin="https://themes.googleusercontent.com/*"/>
+    <access origin="https://mts.googleapis.com/*"/>
 </widget>
