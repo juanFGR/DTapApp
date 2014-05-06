@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+    .body{
+		width:90%;
+		margin-left:auto;
+		margin-right:auto;
+        margin-top:40px;
+	}
+    .footer{
+        height:20px;
+        bottom:0;
+		min-height:20px;
+		position:absolute;
+		font-size: 15px;
+		width:100%;
+		vertical-align:central;
+     }
+
+     .colorPrimary{
+      background-color: #B40404;
+      color:white;
+      }
+	  
+	  .space{
+		  margin-top:10px;
+		  }
+
+    html{
+    padding-top:5px;
+    }
+
+#firstMenu{
+	text-align:center;
+	padding:5px;
+	}
+  .secondMenu{
+	text-align:center;
+	padding:5px;
+	margin-right:auto;
+	margin-left:auto;
+	}
+
+	.listRutas{
+	margin-right:auto;
+	margin-left:auto;
+	font-size:20px;
+	width:80%;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+	}
+
+	.listLocal{
+	float:left;
+	margin-right:auto;
+	margin-left:auto;
+	font-size:20px;
+	width:60%;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+
+	}
+	.iconImage{
+	padding-left:5px;
+    }
+
+	.listTapas{
+	float:left;
+	font-size:20px;
+	width:160px;
+	height:50px;
+	font-weight:bold;
+	vertical-align:middle;
+	}
+
+
+
+
+    .Map{
+    			height:50px;
+            	width:50px;
+    	    background-color:#A5DF00;
+    	    color:white;
+    	    text-color:white;
+           background-image:url('../img/icons/ruta.png');
+    }
+        .Local{
+        			height:50px;
+                	width:50px;
+        	    background-color:#A5DF00;
+        	    color:white;
+        	    text-color:white;
+               background-image:url('../img/icons/icoLocal.png');
+        }
