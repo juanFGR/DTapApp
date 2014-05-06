@@ -29,10 +29,9 @@
        rootElement.append('<div onclick="javascript:window.location.href=\'../pages/locales.html\'" class="colorPrimary listRutas" >'+object.get(printProperty)+'</div>');
 
         }else{
-			alert(object.id);
 		rootElement.append('<div><div class="colorPrimary listTapas" ><div style="float:left;">'+
 		'<img src="../img/secondMenuB.JPG" width="50" height="50"></div><div>'+object.get(printProperty)+'</div>'+
-		'</div><a href="../pages/mapa_u.html"><img src="../img/secondMenuB.JPG" width="50" height="50"></a>'+
+		'</div><a href="../pages/mapa_g.html"><img src="../img/secondMenuB.JPG" width="50" height="50"></a>'+
 		'<a  href="../pages/tapas.html"><img src="../img/secondMenuC.JPG" width="50" height="50"> </a></div>');
 			
 			}
